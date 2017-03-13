@@ -7,13 +7,15 @@ import { AppComponent } from './app.component';
 import { HeaderComponent } from './components/header/header.component';
 import { CardComponent } from './components/card/card.component';
 import { FooterComponent } from './components/footer/footer.component';
+import { CreditCardsComponent } from './components/credit-cards/credit-cards.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     HeaderComponent,
     CardComponent,
-    FooterComponent
+    FooterComponent,
+    CreditCardsComponent,
   ],
   imports: [
     BrowserModule,

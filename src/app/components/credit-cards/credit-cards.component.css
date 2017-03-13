@@ -1,0 +1,33 @@
+img {
+  height: 150px;
+  width: 100%;
+  padding: 10px 50px;
+}
+
+.card-footer {
+  width: 100%;
+}
+
+.card {
+  margin: 0;
+  padding: 0;
+  float: left;
+  box-shadow: none;
+  border: 1px solid lightgray;
+}
+
+.outer-cc {
+  padding: 5px;
+  float: left;
+}
+
+span {
+  margin: 5px;
+}
+.edit {
+  float: left;
+}
+
+.delete {
+  float: right;
+}
